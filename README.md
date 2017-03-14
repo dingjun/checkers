@@ -1,4 +1,4 @@
-# checkers
+# Checkers
 
 Two versions of a classic board game implemented as C++ console application.
 
